@@ -1,0 +1,1 @@
+In this lab, we will use GitHub to create a to-do list for a week, and update it as you complete the tasks.  In the process, we will learn how to use GitHub, a collaboration tool used by many projects in industry and government.
